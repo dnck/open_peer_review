@@ -1,0 +1,22 @@
+<p> Dear Dr. REVIEWERLASTNAME, <br/>
+<br/>
+My name is SENDERNAME. I'm seeking peer reviewers for the article, "ARTICLETITLE". Will you consider reviewing it? <br/><br/>
+
+For your convienence, I've included the article the meta-data at the bottom of the email.<br/><br/>
+
+Thank you for your consideration, and I look forward to your response. <br/><br/>
+
+Best Wishes,<br/>
+SENDERNAME <br/>
+------------------------------------------------------------------------------------------<br/>
+Article Title: ARTICLETITLE<br/>
+<br/>
+Authors:  AUTHORNAME<br/>
+ <br/>
+Affiliations: AUTHORAFFILIATION<br/>
+ <br/>
+Abstract: THEABSTRACT<br/>
+ <br/>
+Article Homepage:  ARTICLEHOMEPAGE<br/><br/>
+------------------------------------------------------------------------------------------
+</p>

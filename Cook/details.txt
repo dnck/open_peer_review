@@ -1,0 +1,7 @@
+leaveThisBlank
+reviewManager Dan Cook
+article Test Article
+author Dan Cook
+authorAffliation University 
+abstract Enter the full abstract
+homepage danjcook.com
