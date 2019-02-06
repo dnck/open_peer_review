@@ -1,3 +1,6 @@
+STATUS:
+Broken. 
+
 # Open Peer Review
 A python app to find and email peer reviewers
 
